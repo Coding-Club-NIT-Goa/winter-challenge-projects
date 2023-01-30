@@ -30,7 +30,7 @@ Contributions are what make the open source community such an amazing place to l
 
 
 2. Create/Add your Project in the Respective Folders to git.
- - You should also add a README.md file **inside your project directory** here. The format for the same can be downloaded [here](https://raw.githubusercontent.com/Coding-Club-NIT-Goa/winter-challenge-projects/main/Chat%20App%20-%20Web(or)App/My%20Dummy%20Project/README.md ).
+ - You should also add a README.md file **inside your project directory** here. The format for the same can be copied from [here](https://raw.githubusercontent.com/Coding-Club-NIT-Goa/winter-challenge-projects/main/Chat%20App%20-%20Web(or)App/My%20Dummy%20Project/README.md ).
  
 <p align="center"><img src="https://user-images.githubusercontent.com/123163039/215448415-6b0e394c-7ff6-422a-aa1f-fff37a7a2fe2.jpg" width="600"></p>
 
