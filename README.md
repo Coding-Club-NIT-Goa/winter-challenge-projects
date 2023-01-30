@@ -24,11 +24,6 @@ Contributions are what make the open source community such an amazing place to l
 
 <p align="center"><img src="https://user-images.githubusercontent.com/123163039/215448015-8f65a57e-438d-4bde-a2a9-2a9c08ef5f6b.jpg" width="600"></p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/123163039/215449001-6a38fcd1-b9a7-43cf-a6f2-61f973bb1aec.jpg" width="600"></p>
-
-<p align="center"><img src="https://user-images.githubusercontent.com/123163039/215449034-8c9f3723-e057-4654-b4c4-e00e4031b216.jpg" width="600"></p>
-
-
 2. Create/Add your Project in the Respective Folders to git.
  - You should also add a README.md file **inside your project directory** here. The format for the same can be copied from [here](https://raw.githubusercontent.com/Coding-Club-NIT-Goa/winter-challenge-projects/main/Chat%20App%20-%20Web(or)App/My%20Dummy%20Project/README.md ).
  
