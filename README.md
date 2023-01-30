@@ -1,5 +1,5 @@
 # 🐱‍🏍 Winter Challenge Projects
-The Coding Club's 'New Year, New Skills: 2023 Project Challenge' - enter 2023 with Style with a Coding Project to Ring in the New Year.
+The Coding Club's 'New Year, New Skills: 2023 Project Challenge' - Enter 2023 with Style with a Coding Project to Ring in the New Year.
 
 ## About
 
@@ -19,8 +19,9 @@ Contributions are what make the open source community such an amazing place to l
 
 </div>
 
-2. Create/Add your Project in the Respective Folders.
-3. Commit your Changes (`git commit -m 'Add My Project'`)
+2. Create/Add your Project in the Respective Folders to git. (`git add .`)
+ - You should also add a README.md file **inside your project directory** here. The format for the same can be downloaded [here](https://raw.githubusercontent.com/Coding-Club-NIT-Goa/winter-challenge-projects/main/Chat%20App%20-%20Web(or)App/My%20Dummy%20Project/README.md ).
+3. Commit your Changes (`git commit -m 'Added My Project'`)
 4. Push to the Branch (`git push origin`)
 5. Open a Pull Request
 
