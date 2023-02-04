@@ -1,0 +1,6 @@
+Steps to connect to Backend mySQL server
+    1. Register the Driver Class
+    2. Creating Connection String
+    3. Creating Statement
+    4. Executing MySQL Queries
+    5. Closing the Connection
