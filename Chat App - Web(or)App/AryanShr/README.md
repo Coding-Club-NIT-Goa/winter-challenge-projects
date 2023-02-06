@@ -1,7 +1,7 @@
 ## Table of Contents
 - Roll No. - 20CSE1005
 - Full Name - Aryan Shrivastav
-- Description - I built a full stack chat web application in which we can login using email, add friends with their email delete those conversation as well as delete the messages
+- Description - I built a full stack chat web application in which we can login using email, add friends with their email delete those conversation as well as delete the messages with message encryption between sender and receiver. Some additional features include like showing the latest message on top of the conversation list and showing the last message in the respective list
 - Tech Stack - MongoDB,Express.js,React.js,Node.js, Socket.io, CryptoJS, and other node modules.
 
 ## Challenges I Faced
